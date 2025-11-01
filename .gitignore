@@ -164,6 +164,33 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+#Sprint
+./Sprint_01/Unidad_01_Introduccion_Herramientas/01_Workout/
+./Sprint_01/Unidad_01_Introduccion_Herramientas/02_Ejercicios_Workout/
+./Sprint_01/Unidad_02_Python_I/01_Workout/
+./Sprint_01/Unidad_02_Python_I/02_Ejercicios_Workout/
+./Sprint_01/Unidad_03_Flujos_de_Control/03_Live_Session/
+./Sprint_01/Unidad_03_Flujos_de_Control/04_Ejercicios_Extra/
+
+./Sprint_02/Unidad_01_Python_II_Colecciones_Funciones/unidad1/00_Ejercicios_Warmup/
+./Sprint_02/Unidad_01_Python_II_Colecciones_Funciones/unidad1/01_Workout/
+./Sprint_02/Unidad_01_Python_II_Colecciones_Funciones/unidad1/02_Ejercicios_Workout/
+
+./Sprint_02/Unidad_02_Python_III_Modulos_OOP/unidad2/01_Workout/
+./Sprint_02/Unidad_02_Python_III_Modulos_OOP/unidad2/02_Ejercicios_Workout/
+
+./Sprint_03/Unidad_01_Numpy_I/01_Workout/
+./Sprint_03/Unidad_01_Numpy_I/02_Ejercicios_Workout/
+./Sprint_03/Unidad_02_Numpy_II/01_Workout/
+./Sprint_03/Unidad_02_Numpy_II/02_Ejercicios_Workout/
+
+./Sprint_04/Unidad_01_Pandas_I/01_Workout/
+./Sprint_04/Unidad_01_Pandas_I/02_Ejercicios_Workout/
+./Sprint_04/Unidad_02_Pandas_II/01_Workout/
+./Sprint_04/Unidad_02_Pandas_II/02_Ejercicios_Workout/
+
+
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
