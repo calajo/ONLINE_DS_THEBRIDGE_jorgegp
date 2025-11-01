@@ -165,6 +165,8 @@ dmypy.json
 cython_debug/
 
 #Sprint
+Sprint_02/Unidad_01_Python_II_Colecciones_Funciones/03_Practica_Obligatoria/18_Practica_Obligatoria_Colecciones_Funciones.ipynb
+Sprint_02/Unidad_02_Python_III_Modulos_OOP/03_Practica_Obligatoria/18_Practica_Obligatoria_OOP.ipynb
 Sprint_01/Unidad_01_Introduccion_Herramientas/01_Workout/
 Sprint_01/Unidad_01_Introduccion_Herramientas/02_Ejercicios_Workout/
 Sprint_01/Unidad_02_Python_I/01_Workout/
@@ -175,9 +177,11 @@ Sprint_01/Unidad_03_Flujos_de_Control/04_Ejercicios_Extra/
 Sprint_02/Unidad_01_Python_II_Colecciones_Funciones/unidad1/00_Ejercicios_Warmup/
 Sprint_02/Unidad_01_Python_II_Colecciones_Funciones/unidad1/01_Workout/
 Sprint_02/Unidad_01_Python_II_Colecciones_Funciones/unidad1/02_Ejercicios_Workout/
+Sprint_02/Unidad_01_Python_II_Colecciones_Funciones/unidad1/
 
 Sprint_02/Unidad_02_Python_III_Modulos_OOP/unidad2/01_Workout/
 Sprint_02/Unidad_02_Python_III_Modulos_OOP/unidad2/02_Ejercicios_Workout/
+Sprint_02/Unidad_02_Python_III_Modulos_OOP/unidad2/
 
 Sprint_03/Unidad_01_Numpy_I/01_Workout/
 Sprint_03/Unidad_01_Numpy_I/02_Ejercicios_Workout/
